@@ -1,5 +1,4 @@
 '''
-This is a simple deep neural network that uses the MNIST dataset to classify handwritten digits.
 Here we will be using PyTorch to build a simple neural network and using a dataset from the UCIML repository.
 The data will be Breast Cancer Wisconsin (Diagnostic) Data Set' which is a binary classification dataset.
 '''
